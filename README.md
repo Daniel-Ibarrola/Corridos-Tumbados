@@ -8,4 +8,5 @@ Este repositorio contiene tablaturas de corridos tumbados.
 - [Llenas las Cuentas](tabs/llenas-las-cuentas.txt)
 - [Malboro Rojo](tabs/malboro-rojo.txt)
 - [Morena](tabs/morena.txt)
+- [Rubicon](tabs/rubicon.md)
 - [Tipo Gatsby](tabs/tipo-gatsby.txt)
